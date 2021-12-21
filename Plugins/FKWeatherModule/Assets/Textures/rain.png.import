@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rain.png-fa14e76a3614f972d31bfe061f341fb8.stex"
+path="res://.import/rain.png-d863f406c1701bb8c0aa90e326b84302.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Textures/rain.png"
-dest_files=[ "res://.import/rain.png-fa14e76a3614f972d31bfe061f341fb8.stex" ]
+source_file="res://Plugins/FKWeatherModule/Assets/Textures/rain.png"
+dest_files=[ "res://.import/rain.png-d863f406c1701bb8c0aa90e326b84302.stex" ]
 
 [params]
 

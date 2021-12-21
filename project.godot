@@ -12,10 +12,10 @@ config_version=4
 
 config/name="【游戏】游戏天气效果（GLES3-only）"
 run/main_scene="res://Main.tscn"
-boot_splash/image="res://Assets/logo.png"
+boot_splash/image="res://Plugins/FKWeatherModule/Assets/logo.png"
 boot_splash/fullsize=false
 boot_splash/bg_color=Color( 0.196078, 0.356863, 0.741176, 1 )
-config/icon="res://Assets/logo.png"
+config/icon="res://Plugins/FKWeatherModule/Assets/logo.png"
 
 [physics]
 

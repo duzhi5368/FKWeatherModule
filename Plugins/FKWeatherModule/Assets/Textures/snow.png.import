@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/snow.png-dbbe9554ffb54c8b4e830a9995f706dd.stex"
+path="res://.import/snow.png-f8fd756df043d4e8ba8752151e426a0c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Textures/snow.png"
-dest_files=[ "res://.import/snow.png-dbbe9554ffb54c8b4e830a9995f706dd.stex" ]
+source_file="res://Plugins/FKWeatherModule/Assets/Textures/snow.png"
+dest_files=[ "res://.import/snow.png-f8fd756df043d4e8ba8752151e426a0c.stex" ]
 
 [params]
 
